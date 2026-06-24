@@ -1,3 +1,3 @@
-# sentinel
+# STRUKTD Sentinel
 
 Coming soon.
